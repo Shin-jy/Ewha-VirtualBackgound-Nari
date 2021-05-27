@@ -1,31 +1,19 @@
-Multiverse by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-Say hello to Multiverse, a slick, one-page gallery design with a fully functional lightbox
-(courtesy of my Poptrox plugin for jQuery) and a custom, reusable "panel" system (click the
-"About" button in the lower right to see what I mean). Had a ton of fun putting this one
-together, and I hope you have as much fun working with it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
-Credits:
+줌 가상배경화면 배포 웹사이트 by 17주연
+반응형 랜딩페이지 제작 with html, css, javascript
 
-	Demo Images:
-		Unsplash (unsplash.com)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+추후 학교 배경 촬영 후 배포 예정
 
-	Other:
-		jQuery (jquery.com)
-		Poptrox (github.com/ajlkn/jquery.poptrox)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+
+
+
+
+
+
+
+
